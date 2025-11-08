@@ -1,0 +1,1 @@
+duration = int(input("Enter the number of hours of parking: "))
